@@ -11,3 +11,5 @@ cython_bbox
 
 # for eval; pinning to specific version due to UserWarnings
 scikit-learn==1.6.1
+mlai 
+notutils
